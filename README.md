@@ -5,3 +5,4 @@ Reconstruir els mòduls de Node i les dependencies necessàries
 yarn
 yarn dev
 ```
+### Paginació per infinit scroll implementada
